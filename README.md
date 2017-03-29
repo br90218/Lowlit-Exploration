@@ -47,5 +47,5 @@ This game supports both keyboard and joystick controls:
   * All people who gave me great suggestions and feedback along the way!
   
 ## Alright, finally:
-* I have a [blog](https://br90218.tumblr.com) that keeps record of all the developing process. Head over there if you want to more about beind the scenes! (pun intended)
+* I have a [blog](https://br90218.tumblr.com) that keeps record of all the developing process. Head over there if you want to learn more about beind the scenes! (pun intended)
 * I also have a [personal portfolio website](https://br90218.github.io), where I put most of me and my projects there. Go on and play!
