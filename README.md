@@ -1,5 +1,7 @@
 # The Low-lit Exploration Project
-Welcome to the repository of the "Low-lit exploration project". You might find this repository to be a bit too clean from commits and merges: that's because I uploaded this entire project folder only after I'm done with my final build.
+Welcome to the repository of the "Low-lit exploration project". Please check out the [releases page](https://github.com/br90218/Lowlit-Exploration/releases) for the latest build.
+
+Also, you might find this repository to be a bit too clean from commits and merges: that's because I uploaded this entire project folder only after I'm done with my final build.
 
 A few notes on this project:
 * This is only a school project that I only had three weeks to work on
