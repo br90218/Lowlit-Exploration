@@ -49,3 +49,4 @@ This game supports both keyboard and joystick controls:
 ## Alright, finally:
 * I have a [blog](https://br90218.tumblr.com) that keeps record of all the developing process. Head over there if you want to learn more about beind the scenes! (pun intended)
 * I also have a [personal portfolio website](https://br90218.github.io), where I put most of me and my projects there. Go on and play!
+* Here's a [demo movie](https://youtu.be/Ug-YwFc0d9U).
