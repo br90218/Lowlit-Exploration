@@ -8,7 +8,7 @@ A few notes on this project:
    
 * Minimum / Recommended computer specs not yet tested.
 
-   I run this game on i7-4790K 4.40GHz, GTX 970, 16GB DDR3 RAM and a 4K monitor, and generally I can still hold up my framerate at around 30 ~ 40 FPS. If you are experiencing some performance issues, please also file an issue post above, thanks!
+   The runnable was tested on a i7-4790K 4.40GHz, GTX 970, 16GB DDR3 RAM machine under 4K resolution, and generally I can still hold up my framerate at around 30 ~ 40 FPS. If you are experiencing some performance issues, please also file an issue post above, thanks!
    
 * Again, this is only a school project that I didn't had enough time to work on
 
