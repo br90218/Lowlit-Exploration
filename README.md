@@ -4,6 +4,9 @@ Welcome to the repository of the "Low-lit exploration project". Please check out
 Also, you might find this repository to be a bit too clean from commits and merges: that's because I uploaded this entire project folder only after I'm done with my final build.
 
 A few notes on this project:
+
+* __A known error on the current build: The title screen prompts players to press the enter key, but it won't work; please press F to start the game.__
+
 * This is only a school project that I only had three weeks to work on
 
    So you might run into some, or maybe a lot of, bugs. So far I have not walked into an invisible hole in the ground, but if you unfortunately find yourself in the voids of negative-Z space please file an issue post.
