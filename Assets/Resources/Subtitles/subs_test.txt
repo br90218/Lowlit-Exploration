@@ -75,15 +75,15 @@
 </p>
 <p>
 <time/>000.000|Now it's only me at the altar. I'm leaving trails<br>to ensure that one day our story will be passed on,
-<time/>008.565|and that one day balance will be brought back to this land.
+<time/>008.565|passed on to you, Rainbow.
 <time/>016.239|</off>
 </p>
 <p>
-<time/>000.000|Only those who share the same blood as the twins can see these trails,<br>and fate, at last, has brought you here.
+<time/>000.000|Vja predicted that you are currently accompanied by<br>a boy, his name is Brian.
 <time/>011.188|</off>
 </p>
 <p>
-<time/>000.000|Now the land is shaded with darkness,<br>and you, are the only one who can bring it back to light.
-<time/>009.645|So become who you are meant to be, my child. Become a legend.
+<time/>000.000|This world is full of adventures,<br>and you are the only one who can support him.
+<time/>009.645|So we ask you of one favor, my child. This favor.
 <time/>015.507|</off>
 </p>
