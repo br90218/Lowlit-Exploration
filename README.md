@@ -1,4 +1,12 @@
 # The Low-lit Exploration Project
+
+![Unity Ver][1] ![Release][2]
+
+[1]: https://img.shields.io/badge/Unity%20Version-5.5.2f1-brightgreen.svg
+
+
+[2]: https://img.shields.io/badge/Latest%20Release-v1.1.0-yellow.svg
+
 Welcome to the repository of the "Low-lit exploration project". Please check out the [releases page](https://github.com/br90218/Lowlit-Exploration/releases) for the latest build.
 
 Also, you might find this repository to be a bit too clean from commits and merges: that's because I uploaded this entire project folder only after I'm done with my final build.
