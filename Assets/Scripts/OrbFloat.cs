@@ -1,6 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
-using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class OrbFloat : MonoBehaviour
@@ -61,13 +59,21 @@ public class OrbFloat : MonoBehaviour
     private IEnumerator Destroy()
     {
         yield return new WaitForSeconds(7f);
-        GameObject.FindGameObjectWithTag("UI").GetComponent<UIControl>().Flash();
+        GameObject.Find("Cutscene Manager").GetComponent<Animator>().SetBool("Flash", true);
+        Invoke("TurnFlashTriggerOff", 0.1f);
         GetComponent<MeshRenderer>().enabled = false;
         GetComponent<ParticleSystem>().Stop();
         while (GetComponent<ParticleSystem>().IsAlive())
         {
-            yield return new WaitForSeconds(1f);
+            yield return new WaitForFixedUpdate();
         }
-        GameObject.Destroy(this.transform.parent.gameObject);
+        GameObject.Destroy(transform.parent.gameObject);
+        GameObject.Find("Orb Locations").GetComponent<OrbManager>().InstantiateNextOrb();
     }
+
+    private void TurnFlashTriggerOff()
+    {
+        GameObject.Find("Cutscene Manager").GetComponent<Animator>().SetBool("Flash", false);
+    }
+
 }

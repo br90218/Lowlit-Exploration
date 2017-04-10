@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CameraControl : MonoBehaviour
 {
@@ -59,7 +57,7 @@ public class CameraControl : MonoBehaviour
 
     public void LateUpdate () {
 	    if (!_target)
-	    {
+        { 
 	        return;
 	    }
         _x += Input.GetAxis("RightStickHorizontal") * _xSpeed * 0.02f;
