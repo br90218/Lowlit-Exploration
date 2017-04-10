@@ -9,9 +9,9 @@
 
 
 ## You are on the branch "Rainbow"! This branch is not meant for you. Flashbangs ahead!
-No builds will be released on this branch.
+>No builds will be released on this branch.
 
-You can still pull this branch down and compile it on your own, but you may find yourself confused towards the ending.
+>You can still pull this branch down and compile it on your own, but you may find yourself confused towards the ending.
 
 Welcome to the repository of the "Low-lit exploration project". Please check out the [releases page](https://github.com/br90218/Lowlit-Exploration/releases) for the latest build.
 
