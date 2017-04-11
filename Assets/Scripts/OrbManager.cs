@@ -53,13 +53,14 @@ public class OrbManager : MonoBehaviour {
         if (_index + 1 >= _orbLocations.Length)
         {
             Debug.Log("Reached end of locations, returning");
+            return;
         }
         else
         {
             Instantiate(_index + 1 == 1 ? _secondTutorialOrb : _orb, _orbLocations[++_index].position,
                 Quaternion.identity);
-        }
 
+        }
         GameObject.Find("Orb Count").GetComponent<Text>().text = "Orbs Found: " + _index + "/20";
     }
 

@@ -4,7 +4,7 @@
 </p>
 <p>
 <time/>000.000|Az' tamare, or the floor of the Gods,<br>provided us with land of rich soil.
-<time/>007.377|Crops never died and we would reap more than we needed.
+<time/>006.892|Crops never died and we would reap more than we needed.
 <time/>014.322|</off>
 </p>
 <p>
@@ -22,8 +22,8 @@
 </p>
 <p>
 <time/>000.000|We also believed in the prophecy of Vja, which foresaw<br>the birth of a pair of twins.
-<time/>007.244|However, Vja only predicted one of the twins to be the<br>bringer of hell.
-<time/>013.304|For this reason, an old law has been strictly followed:<br>Every pair of twins born must be sent off to die.
+<time/>006.892|However, Vja only said about one of the twins to be the<br>bringer of hell.
+<time/>012.591|For this reason, an old law has been strictly followed:<br>Every pair of twins born must be sent off to die.
 <time/>025.034|</off>
 </p>
 <p>
@@ -43,8 +43,8 @@
 </p>
 <p>
 <time/>000.000|Then came a time when hunting trips didn't bring the tribe<br>enough food. People were sick and starving.
-<time/>008.766|Among the clueless hunters, Etahk came up with a bunch of<br>brilliant ideas. His tricks and plans eventually resolved
-<time/>017.811|the village's malnutrition problem.
+<time/>008.775|Among the clueless hunters, Etahk came up with a bunch of<br>brilliant ideas. His tricks and plans eventually resolved
+<time/>017.799|the village's malnutrition problem.
 <time/>022.375|</off>
 </p>
 <p>
@@ -54,7 +54,7 @@
 </p>
 <p>
 <time/>000.000|Not long after, Monakk died of illness.<br>While the villagers were saddened by the passing of our leader,
-<time/>008.770|Etwik came up with a plan that he thought would make everyone proud.
+<time/>009.459|Etwik came up with a plan that he thought would make everyone proud.
 <time/>016.000|</off>
 </p>
 <p>
@@ -74,8 +74,8 @@
 <time/>014.833|</off>
 </p>
 <p>
-<time/>000.000|Now it's only me at the altar. I'm leaving trails<br>to ensure that one day our story will be passed on,
-<time/>008.565|passed on to you, Rainbow.
+<time/>000.000|Now it's only us at the altar. I'm leaving trails<br>to ensure that one day our story will be passed on,
+<time/>010.134|passed on to you, Rainbow.
 <time/>016.239|</off>
 </p>
 <p>
@@ -83,7 +83,7 @@
 <time/>011.188|</off>
 </p>
 <p>
-<time/>000.000|This world is full of adventures,<br>and you are the only one who can support him.
-<time/>009.645|So we ask you of one favor, my child. This favor.
+<time/>000.000|While this world is full of dangers and adventures,<br>you are the only one who can support him.
+<time/>008.333|So we ask you of one favor, my child. This favor.
 <time/>015.507|</off>
 </p>
