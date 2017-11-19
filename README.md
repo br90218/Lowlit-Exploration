@@ -8,7 +8,7 @@
 [2]: https://img.shields.io/badge/Latest%20Release-v1.1.0-yellow.svg
 
 
-## You are on the branch "Rainbow"! This branch is not meant for you. Flashbangs ahead!
+## You are on the branch "Rainbow"! This branch is not meant for you. Turn around!
 >No builds will be released on this branch.
 
 >You can still pull this branch down and compile it on your own, but you may find yourself confused towards the ending.
